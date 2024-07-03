@@ -1,5 +1,12 @@
 {
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "2282VF3R7V.com.masato.PWSample", "7B8TZGQ59F.com.masato.PWSample" ]
+           }
+       ]
+   },
   "webcredentials": {
-    "apps": ["2282VF3R7V.com.masato.PWSample"]
+    "apps": ["2282VF3R7V.com.masato.PWSample", "7B8TZGQ59F.com.masato.PWSample" ]
   }
 }
